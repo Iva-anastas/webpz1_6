@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+}
+.block1 {
+    background-color: blue;
+    width: 75vw;
+    height: 25vh;
+    float: left;
+}
+.block2 {
+    background-color: dimgrey;
+    height: 75vh;
+    width: 25vw;
+    float: right;
+}
+.block3 {
+    background-color: aqua;
+    width: 25vw;
+    height: 25vh;
+    float: left;
+}
+.block4 {
+    background-color: indianred;
+    width: 25vw;
+    height: 25vh;
+    float: left;
+}
+.block5 {
+    background-color: yellow;
+    width: 25vw;
+    height: 50vh;
+    float: right;
+}
+.block6 {
+    background-color: green;
+    width: 50vw;
+    height: 25vh;
+    float: left;
+}
+.block7 {
+    background-color: saddlebrown;
+    width: 100vw;
+    height: 25vh;
+    float: left;
+}

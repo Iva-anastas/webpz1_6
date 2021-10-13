@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+.group1 {
+    display: flex;
+    width: 100vw;
+    height: 75vh;
+}
+.group2 {
+    width: 75vw;
+    height: 75vh;
+}
+.group3 {
+    display: flex;
+}
+.group5 {
+    display: flex;
+}
+.block1 {
+    background-color: blue;
+    width: 75vw;
+    height: 25vh;
+}
+.block2 {
+    background-color: dimgrey;
+    width: 25vw;
+    height: 75vh;
+}
+.block3 {
+    background-color: aqua;
+    width: 25vw;
+    height: 25vh;
+}
+.block4 {
+    background-color: indianred;
+    width: 25vw;
+    height: 25vh;
+}
+.block5 {
+    background-color: yellow;
+    width: 25vw;
+    height: 50vh;
+}
+.block6 {
+    background-color: green;
+    width: 50vw;
+    height: 25vh;
+}
+.block7 {
+    background-color: saddlebrown;
+    height: 25vh;
+    width: 100vw;
+}
